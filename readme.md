@@ -1,5 +1,5 @@
 
-# [Dependency: BepInEx](https://img.shields.io/github/downloads/bepinex/bepinex/total.svg)
+# Dependency: BepInEx [Source](https://img.shields.io/github/downloads/bepinex/bepinex/total.svg)
 
 <p align="center">
     <img src="https://avatars2.githubusercontent.com/u/39589027?s=256">
