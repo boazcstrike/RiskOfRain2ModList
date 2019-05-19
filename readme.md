@@ -34,7 +34,7 @@ Bepis Injector Extensible
 
 ---
 
-Unity plugin framework
+## Unity plugin framework
 
 **[Latest releases](https://github.com/BepInEx/BepInEx/releases)**
 
