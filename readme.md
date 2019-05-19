@@ -1,13 +1,11 @@
 
-**[Dependency: BepInEx](https://img.shields.io/github/downloads/bepinex/bepinex/total.svg)**
-
-**[Source](https://github.com/BepInEx/BepInEx)**
+# [Dependency: BepInEx](https://img.shields.io/github/downloads/bepinex/bepinex/total.svg)
 
 <p align="center">
     <img src="https://avatars2.githubusercontent.com/u/39589027?s=256">
 </p>
 
-# BepInEx
+## BepInEx **[Source](https://github.com/BepInEx/BepInEx)**
 ![Github All Releases](https://img.shields.io/github/downloads/bepinex/bepinex/total.svg)
 ![GitHub release](https://img.shields.io/github/release/bepinex/bepinex.svg)
 
